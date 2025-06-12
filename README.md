@@ -6,7 +6,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Clear and delete functionality
-- Responsive design
 - Clean, modern UI
 
 ## Project Structure

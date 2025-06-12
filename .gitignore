@@ -1,0 +1,10 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore solution file (my, Allyn, own solution)
+solution.js
+
+# Common files to ignore
+node_modules/
+.DS_Store
+*.log
